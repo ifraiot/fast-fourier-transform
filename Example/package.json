@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ifra-iot/fast-fourier-transform": "^1.0.1"
+    "@ifra-iot/fast-fourier-transform": "^1.0.2"
   }
 }
