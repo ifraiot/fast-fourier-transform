@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/ifraiot/fast-fourier-transform/issues"
     },
-    "homepage": "https://github.com/ifraiot/fast-fourier-transform#readme"
+    "homepage": "https://github.com/ifraiot/fast-fourier-transform#readme",
+    "devDependencies": {
+        "typescript": "^3.6.4"
+    }
 }
