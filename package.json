@@ -1,23 +1,23 @@
 {
-  "name": "@ifra-iot/fast-fourier-transform",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ifraiot/fast-fourier-transform.git"
-  },
-  "keywords": [
-    "FTT",
-    "IoT"
-  ],
-  "author": "siravit ngamjee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ifraiot/fast-fourier-transform/issues"
-  },
-  "homepage": "https://github.com/ifraiot/fast-fourier-transform#readme"
+    "name": "@ifra-iot/fast-fourier-transform",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ifraiot/fast-fourier-transform.git"
+    },
+    "keywords": [
+        "FTT",
+        "IoT"
+    ],
+    "author": "siravit ngamjee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ifraiot/fast-fourier-transform/issues"
+    },
+    "homepage": "https://github.com/ifraiot/fast-fourier-transform#readme"
 }
